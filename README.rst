@@ -76,3 +76,4 @@ Detailed documentation
 For a detailed documentation of django-request, or how to install
 django-request please see: `django-request
 <https://django-request.readthedocs.org/en/latest/>`_ or the docs/ directory.
+
